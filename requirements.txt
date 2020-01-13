@@ -1,2 +1,3 @@
 nuart>=0.0.5
 ptable
+colorlog
